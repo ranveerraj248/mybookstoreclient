@@ -9,3 +9,5 @@ deploy:
   provider: heroku
   api_key: $HEROKU_TOKEN
   app: "book-store-web-client"
+  on:
+    all_branches: true
