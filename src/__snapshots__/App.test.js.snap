@@ -3,7 +3,7 @@
 exports[`App component should render app without error 1`] = `
 <DocumentFragment>
   <div>
-    My first component
+    My updates Component
   </div>
 </DocumentFragment>
 `;
