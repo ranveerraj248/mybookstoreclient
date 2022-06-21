@@ -1,0 +1,1 @@
+{"name":"Local: sample","url":"d:\\WebApplications\\bookstoreclient\\sample.cpp","tests":[{"id":1655714474899,"input":"2\n1 1","output":"1"},{"id":1655714482009,"input":"8\n1 2 1 1 1 1 1 1","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\WebApplications\\bookstoreclient\\sample.cpp","group":"local","local":true}
